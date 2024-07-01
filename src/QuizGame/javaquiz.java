@@ -62,7 +62,7 @@ class javaquiz
                 score++;
             }
         }
-        System.out.println("Your Score: "+score+" Out of "+ questions.length);
+        System.out.println("Your Score: "+score+" Out of :"+ questions.length);
     }
 
 
