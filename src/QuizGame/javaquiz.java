@@ -14,7 +14,7 @@ class javaquiz
         String quizname = obj.next();
         System.out.println("Quiz Created");
 
-        System.out.println("how many questions you want to add");
+        System.out.println("how many questions you want to add ");
         int quesnumber = obj.nextInt();
 
         ArrayList<String> list = new ArrayList<>();
